@@ -2,7 +2,13 @@
  
 ### <h1>Hi there 👋 I am Juan Infante</h1>
 
-> I am Junior Software Developer | FullStack | Back-end
+Junior Software Developer | FullStack | Back-end
+
+I am a Software Development Technician and currently pursuing a Full Stack Software Analysis and Development Technologist degree, specializing in backend.
+
+I have experience in web application development and maintenance, software architecture design and implementation, and backend process optimization. My standout skills include creating efficient and scalable technological solutions, as well as integrating systems and services.
+
+Throughout my career, I have worked with various development teams, adapting, developing, and enhancing individual skills to achieve collective goals on different projects. Currently, I am developing applications for SENA, collaborating with development teams to provide technological tools that maximize effectiveness across various centers throughout the capital.
 <br />
 
 <!--- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa-->
@@ -17,6 +23,7 @@
 
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+	
   <img  alr="NestJS" src="https://img.shields.io/badge/NestJs-ea2845.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img  alt="typescript" src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img  alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -103,13 +110,7 @@
  </a>
 </p>
 
-
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/JuanInfante122/JuanInfante122/main/resources/img/github-contribution-grid-snake.svg"
-    alt="JuanInfante122" />
-</p>
-
+![snake gif](https://github.com/JuanInfante122/JuanInfante122/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
