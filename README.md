@@ -76,4 +76,4 @@ Throughout my career, I have worked with various development teams, adapting, de
 
 ---
 
-Credit: [JuanInfante122](https://github.com/JuanInfante122) Last Edit on 15/05/2024
+Credit: [JuanInfante122](https://github.com/JuanInfante122) Last Edit on 18/06/2024
