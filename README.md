@@ -22,31 +22,31 @@ Throughout my career, I have worked with various development teams, adapting, de
 ## 🌟 Highlighted Projects
 
 ### [Gestión de Ambientes](https://github.com/JuanInfante122/gestionDeAmbientes.git) 
-![Gestión de Ambientes](https://img.shields.io/badge/Gesti%C3%B3n%20de%20Ambientes-%2338B2AC.svg?style=for-the-badge&logo=github&logoColor=white)  
+[![Gestión de Ambientes](https://img.shields.io/badge/Gesti%C3%B3n%20de%20Ambientes-%2338B2AC.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanInfante122/gestionDeAmbientes.git)  
 **Introduction:**  
-The "Gestión de Ambientes" project aims to facilitate the process for SENA instructors to send reports about the resources present in the teaching environments. These resources include critical items such as computers, chairs, tables, boards, and more. The goal of these reports is to detect any damage or loss of these objects early, allowing for efficient resource management and ensuring an optimal learning environment.
+The "Gestión de Ambientes" project facilitates SENA instructors in sending reports about resources in teaching environments, including computers, chairs, tables, and boards. It aims to detect early damage or loss of these items, allowing for efficient resource management and maintaining an optimal learning environment.
 
 **Project Objectives:**
-- Develop an intuitive and easy-to-use system for SENA instructors to report on resources in teaching environments.
-- Streamline the process of detecting damage or loss through an efficient reporting system.
-- Enhance resource management by providing a platform that facilitates communication between instructors and maintenance staff for prompt problem resolution.
+- Develop an intuitive system for instructors to report on resources in teaching environments.
+- Streamline the detection of damage or loss with an efficient reporting system.
+- Enhance resource management by facilitating communication between instructors and maintenance staff.
 
 **Project Scope:**
-- The system will allow instructors to record and submit reports on resources in teaching environments, including details such as quantity, condition, and location.
-- An intuitive interface will be developed to allow users to navigate the system easily and submit reports quickly and efficiently.
-- Advanced functionalities such as preventive maintenance scheduling, comprehensive inventory management, or specific repair tracking will not be included. These features may be considered for future iterations of the project but are beyond the initial scope.
+- Enables instructors to record and submit reports on resources, including details like quantity, condition, and location.
+- Features an intuitive interface for easy navigation and efficient report submission.
+- Excludes advanced functionalities like preventive maintenance scheduling and full inventory management, which may be considered for future iterations.
 
 ---
 
 ### [Project Name 2](https://github.com/JuanInfante122/project2) 
-![Project 2](https://img.shields.io/badge/Project%202-%2338B2AC.svg?style=for-the-badge&logo=github&logoColor=white)  
-*Brief description of Project 2. This project features...*
+[![Project 2](https://img.shields.io/badge/Project%202-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanInfante122/project2)  
+*Brief description of Project 2 with highlights and key features.*
 
 ---
 
 ### [Project Name 3](https://github.com/JuanInfante122/project3) 
-![Project 3](https://img.shields.io/badge/Project%203-%239B59C6.svg?style=for-the-badge&logo=github&logoColor=white)  
-*Brief description of Project 3. Key highlights include...*
+[![Project 3](https://img.shields.io/badge/Project%203-%239B59C6.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanInfante122/project3)  
+*Brief description of Project 3 including notable features and achievements.*
 
 <!-- Add more projects as needed -->
 
@@ -94,7 +94,7 @@ The "Gestión de Ambientes" project aims to facilitate the process for SENA inst
   </a>
 </div>
 
-## Recent activity
+## Recent Activity
 
 ![Juan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanInfante122&custom_title=Juan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
@@ -105,6 +105,4 @@ The "Gestión de Ambientes" project aims to facilitate the process for SENA inst
 ---
 
 Credit: [JuanInfante122](https://github.com/JuanInfante122) Last Edit on 18/06/2024
-
-
 
