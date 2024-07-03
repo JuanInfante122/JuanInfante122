@@ -21,7 +21,6 @@ Throughout my career, I have worked with various development teams, adapting, de
 
 ## 🌟 Highlighted Projects
 
-### [Gestión de Ambientes](https://github.com/JuanInfante122/gestionDeAmbientes.git) 
 [![Gestión de Ambientes](https://img.shields.io/badge/Gesti%C3%B3n%20de%20Ambientes-%2338B2AC.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanInfante122/gestionDeAmbientes.git)  
 **Introduction:**  
 The "Gestión de Ambientes" project facilitates SENA instructors in sending reports about resources in teaching environments, including computers, chairs, tables, and boards. It aims to detect early damage or loss of these items, allowing for efficient resource management and maintaining an optimal learning environment.
