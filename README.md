@@ -21,15 +21,21 @@ Throughout my career, I have worked with various development teams, adapting, de
 
 ## 🌟 Highlighted Projects
 
-### Project 1: [Project Name](https://github.com/JuanInfante122/project1)
-- **Description**: A brief description of the project, its objectives, and technologies used.
-- **Features**: Key features of the project.
-- **Technologies**: Technologies and tools used in the project.
+### [Project Name 1](https://github.com/JuanInfante122/project1) 
+![Project 1](https://img.shields.io/badge/Project%201-%23FF6F61.svg?style=for-the-badge&logo=github&logoColor=white)  
+*Brief description of Project 1. This project demonstrates...*
 
-### Project 2: [Project Name](https://github.com/JuanInfante122/project2)
-- **Description**: A brief description of the project, its objectives, and technologies used.
-- **Features**: Key features of the project.
-- **Technologies**: Technologies and tools used in the project.
+---
+
+### [Project Name 2](https://github.com/JuanInfante122/project2) 
+![Project 2](https://img.shields.io/badge/Project%202-%2338B2AC.svg?style=for-the-badge&logo=github&logoColor=white)  
+*Brief description of Project 2. This project features...*
+
+---
+
+### [Project Name 3](https://github.com/JuanInfante122/project3) 
+![Project 3](https://img.shields.io/badge/Project%203-%239B59C6.svg?style=for-the-badge&logo=github&logoColor=white)  
+*Brief description of Project 3. Key highlights include...*
 
 <!-- Add more projects as needed -->
 
@@ -84,28 +90,8 @@ Throughout my career, I have worked with various development teams, adapting, de
 
 ![Juan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanInfante122&custom_title=Juan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-### 🐍
-
-![snake gif](https://github.com/JuanInfante122/JuanInfante122/blob/output/github-contribution-grid-snake.svg)
-
-## 🌐 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/juaninfantequiroga/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/JuanInfante122" target="_blank">
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://stackoverflow.com/users/juaninfante122" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
-  </a>
-  <a href="mailto:juan.infante121@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
-
 ---
 
-Créditos: [JuanInfante122](https://github.com/JuanInfante122) Última edición el 18/06/2024
+Credit: [JuanInfante122](https://github.com/JuanInfante122) Last Edit on 18/06/2024
+
 
