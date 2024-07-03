@@ -1,25 +1,25 @@
- <img align="right" height="270px" alt="guy" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFxN3M5aG5zdm5zbDhwcWl5bWMxMmdrbDdzeXp1YnlqaXRra3AwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" /> </a>
- 
-### <h1>Hi there 👋 I am Juan Infante</h1>
+<img align="right" height="270px" alt="guy" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFxN3M5aG5zdm5zbDhwcWl5bWMxMmdrbDdzeXp1YnlqaXRra3AwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" /> </a>
 
-Junior Software Developer | FullStack | Back-end
+# ¡Hola! 👋 Soy Juan Infante
 
-I am a Software Development Technician and currently pursuing a Full Stack Software Analysis and Development Technologist degree, specializing in backend.
+**Junior Software Developer | FullStack | Back-end**
 
-I have experience in web application development and maintenance, software architecture design and implementation, and backend process optimization. My standout skills include creating efficient and scalable technological solutions, as well as integrating systems and services.
+Soy Técnico en Desarrollo de Software y actualmente estoy cursando un grado de Tecnólogo en Análisis y Desarrollo de Software Full Stack, especializado en backend.
 
-Throughout my career, I have worked with various development teams, adapting, developing, and enhancing individual skills to achieve collective goals on different projects. Currently, I am developing applications for SENA, collaborating with development teams to provide technological tools that maximize effectiveness across various centers throughout the capital.
+Tengo experiencia en desarrollo y mantenimiento de aplicaciones web, diseño e implementación de arquitectura de software y optimización de procesos backend. Mis habilidades destacadas incluyen la creación de soluciones tecnológicas eficientes y escalables, así como la integración de sistemas y servicios.
+
+A lo largo de mi carrera, he trabajado con diversos equipos de desarrollo, adaptándome, desarrollando y mejorando habilidades individuales para lograr objetivos colectivos en diferentes proyectos. Actualmente, estoy desarrollando aplicaciones para SENA, colaborando con equipos de desarrollo para proporcionar herramientas tecnológicas que maximicen la efectividad en varios centros de la capital.
+
 <br />
 
-<!--- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa-->
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- 📫 How to reach me **juan.infante121@gmail.com**
-- 💬 Ask me about: anything, I am happy to help
-- 	<img src="https://komarev.com/ghpvc/?username=JuanInfante122&label=Profile%20views&color=brightgreen&style=plastic" alt="Juan's profile views" /> 
+- :computer: &nbsp;Conéctate conmigo en **[LinkedIn](https://www.linkedin.com/in/juaninfantequiroga/)**
+- 📫 Cómo contactarme: **juan.infante121@gmail.com**
+- 💬 Pregúntame sobre cualquier cosa, estaré encantado de ayudar
+- <img src="https://komarev.com/ghpvc/?username=JuanInfante122&label=Profile%20views&color=brightgreen&style=plastic" alt="Juan's profile views" /> 
 	<a href="https://github.com/JuanInfante122?tab=followers"><img src="https://img.shields.io/github/followers/JuanInfante122?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
 
-## 💻 Technologies 
+## 💻 Tecnologías 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,7 +35,7 @@ Throughout my career, I have worked with various development teams, adapting, de
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
- ## 🛠️ Software & Tools
+## 🛠️ Software & Herramientas
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -49,31 +49,30 @@ Throughout my career, I have worked with various development teams, adapting, de
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
 ## 📊 GitHub Stats
 
-!["JuanInfante122"](https://github-readme-stats.vercel.app/api?username=JuanInfante122&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=en&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
-![stats](https://github-contributor-stats.vercel.app/api?username=JuanInfante122&limit=6&theme=onedark&combine_all_yearly_contributions=true&locale=en)
+![JuanInfante122's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanInfante122&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=en&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=JuanInfante122&limit=6&theme=onedark&combine_all_yearly_contributions=true&locale=en)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanInfante122&hide_border=true&include_all_commits=true&count_private=true&layout=normal&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-!["JuanInfante122"](https://github-readme-streak-stats.herokuapp.com/?user=JuanInfante122&theme=onedark&hide_border=true)
-![trophies](https://github-profile-trophy.vercel.app/?username=JuanInfante122&theme=algolia&no-frame=false&no-bg=true&margin-w=0)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanInfante122&theme=onedark&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JuanInfante122&theme=algolia&no-frame=false&no-bg=true&margin-w=0)
 
-## Recent activity
+## 📈 Actividad Reciente
 
 ![Juan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanInfante122&custom_title=Juan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
 
 ### 🐍
 
 ![snake gif](https://github.com/JuanInfante122/JuanInfante122/blob/output/github-contribution-grid-snake.svg)
 
-## 🌐 Connect with me
+## 🌐 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juaninfantequiroga/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanInfante122)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/juaninfante122)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailTo:juan.infante121@gmail.com)
 
 ---
 
-Credit: [JuanInfante122](https://github.com/JuanInfante122) Last Edit on 18/06/2024
+Crédito: [JuanInfante122](https://github.com/JuanInfante122) Última Edición el 18/06/2024
+
