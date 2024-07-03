@@ -51,11 +51,20 @@ A lo largo de mi carrera, he trabajado con diversos equipos de desarrollo, adapt
 
 ## 📊 GitHub Stats
 
-![JuanInfante122's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanInfante122&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=en&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=JuanInfante122&limit=6&theme=onedark&combine_all_yearly_contributions=true&locale=en)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanInfante122&hide_border=true&include_all_commits=true&count_private=true&layout=normal&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanInfante122&theme=onedark&hide_border=true)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JuanInfante122&theme=algolia&no-frame=false&no-bg=true&margin-w=0)
+<div align="center">
+  <a href="https://github.com/JuanInfante122">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanInfante122&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="Juan's GitHub stats" />
+  </a>
+  <a href="https://github.com/JuanInfante122">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanInfante122&layout=compact&langs_count=8&theme=onedark" alt="Top Langs" />
+  </a>
+  <a href="https://github.com/JuanInfante122">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanInfante122&theme=onedark" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/JuanInfante122">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=JuanInfante122&theme=algolia&no-frame=false&no-bg=true&margin-w=0" alt="GitHub Trophies" />
+  </a>
+</div>
 
 ## 📈 Actividad Reciente
 
@@ -70,9 +79,9 @@ A lo largo de mi carrera, he trabajado con diversos equipos de desarrollo, adapt
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juaninfantequiroga/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanInfante122)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/juaninfante122)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailTo:juan.infante121@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.infante121@gmail.com)
 
 ---
 
-Crédito: [JuanInfante122](https://github.com/JuanInfante122) Última Edición el 18/06/2024
+Créditos: [JuanInfante122](https://github.com/JuanInfante122) Última edición el 18/06/2024
 
