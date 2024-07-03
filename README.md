@@ -89,7 +89,7 @@ The "Gestión de Ambientes" project facilitates SENA instructors in sending repo
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <div align="center">
-    <h2 style="color: #ffc107; border-bottom: 2px solid #ffc107; padding-bottom: 10px;">📊 GitHub Stats</h2>
+  <h2 style="color: #ffc107; border-bottom: 2px solid #ffc107; padding-bottom: 10px;">📊 GitHub Stats</h2>
 </div>
 
 <div align="center">
@@ -100,7 +100,9 @@ The "Gestión de Ambientes" project facilitates SENA instructors in sending repo
 <br>
 
 <div align="center">
-  ![Juan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanInfante122&custom_title=Juan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+  <a href="https://github.com/JuanInfante122">
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanInfante122&custom_title=Juan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Juan's GitHub Activity Graph" />
+  </a>
 </div>
 <br>
 
@@ -124,5 +126,6 @@ The "Gestión de Ambientes" project facilitates SENA instructors in sending repo
 ---
 
 Credit: [JuanInfante122](https://github.com/JuanInfante122) Last Edit on 18/06/2024
+
 
 
