@@ -18,7 +18,9 @@ Throughout my career, I have worked with various development teams, adapting, de
 - 📫 How to reach me: **juan.infante121@gmail.com**
 - 💬 Ask me about: anything, I'm happy to help
 - <img src="https://komarev.com/ghpvc/?username=JuanInfante122&label=Profile%20views&color=brightgreen&style=plastic" alt="Juan's profile views" />
-	<a href="https://github.com/JuanInfante122?tab=followers"><img src="https://img.shields.io/github/followers/JuanInfante122?label=Followers&style=social" alt="GitHub Badge"></a>
+  <a href="https://github.com/JuanInfante122?tab=followers">
+    <img src="https://img.shields.io/github/followers/JuanInfante122?label=Followers&style=social" alt="GitHub Badge">
+  </a>
 <br><br>
 
 <div align="center">
@@ -107,9 +109,8 @@ The "Gestión de Ambientes" project facilitates SENA instructors in sending repo
 <br>
 
 <div align="center">
-  ![snake gif](https://github.com/JuanInfante122/JuanInfante122/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/JuanInfante122/JuanInfante122/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </div>
-
 
 ---
 
@@ -124,9 +125,4 @@ The "Gestión de Ambientes" project facilitates SENA instructors in sending repo
 
 ---
 
-
-
 Credit: [JuanInfante122](https://github.com/JuanInfante122) Last Edit on 18/06/2024
-
-
-
