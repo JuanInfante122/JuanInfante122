@@ -76,12 +76,22 @@ A lo largo de mi carrera, he trabajado con diversos equipos de desarrollo, adapt
 
 ## 🌐 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juaninfantequiroga/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanInfante122)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/juaninfante122)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.infante121@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/juaninfantequiroga/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/JuanInfante122" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://stackoverflow.com/users/juaninfante122" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+  </a>
+  <a href="mailto:juan.infante121@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ---
 
-Créditos: [JuanInfante122](https://github.com/JuanInfante122) Última edición el 18/06/2024
+Créditos: [JuanInfante122](https://github.com/JuanInfante122) Última edición el 03/07/2024
 
