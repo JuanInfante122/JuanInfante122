@@ -110,11 +110,10 @@ The "Gestión de Ambientes" project facilitates SENA instructors in sending repo
   ![snake gif](https://github.com/JuanInfante122/JuanInfante122/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+
 ---
 
-<div align="center">
-  <h2 style="color: #dc3545; border-bottom: 2px solid #dc3545; padding-bottom: 10px;">🌐 Connect with me</h2>
-</div>
+## 🌐 Connect with me
 
 <div align="center">
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juaninfantequiroga/)
@@ -124,6 +123,7 @@ The "Gestión de Ambientes" project facilitates SENA instructors in sending repo
 </div>
 
 ---
+
 
 
 Credit: [JuanInfante122](https://github.com/JuanInfante122) Last Edit on 18/06/2024
