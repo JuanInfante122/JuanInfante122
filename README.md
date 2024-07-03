@@ -21,9 +21,20 @@ Throughout my career, I have worked with various development teams, adapting, de
 
 ## 🌟 Highlighted Projects
 
-### [Project Name 1](https://github.com/JuanInfante122/project1) 
-![Project 1](https://img.shields.io/badge/Project%201-%23FF6F61.svg?style=for-the-badge&logo=github&logoColor=white)  
-*Brief description of Project 1. This project demonstrates...*
+### [Gestión de Ambientes](https://github.com/JuanInfante122/gestionDeAmbientes.git) 
+![Gestión de Ambientes](https://img.shields.io/badge/Gesti%C3%B3n%20de%20Ambientes-%2338B2AC.svg?style=for-the-badge&logo=github&logoColor=white)  
+**Introduction:**  
+The "Gestión de Ambientes" project aims to facilitate the process for SENA instructors to send reports about the resources present in the teaching environments. These resources include critical items such as computers, chairs, tables, boards, and more. The goal of these reports is to detect any damage or loss of these objects early, allowing for efficient resource management and ensuring an optimal learning environment.
+
+**Project Objectives:**
+- Develop an intuitive and easy-to-use system for SENA instructors to report on resources in teaching environments.
+- Streamline the process of detecting damage or loss through an efficient reporting system.
+- Enhance resource management by providing a platform that facilitates communication between instructors and maintenance staff for prompt problem resolution.
+
+**Project Scope:**
+- The system will allow instructors to record and submit reports on resources in teaching environments, including details such as quantity, condition, and location.
+- An intuitive interface will be developed to allow users to navigate the system easily and submit reports quickly and efficiently.
+- Advanced functionalities such as preventive maintenance scheduling, comprehensive inventory management, or specific repair tracking will not be included. These features may be considered for future iterations of the project but are beyond the initial scope.
 
 ---
 
@@ -79,19 +90,21 @@ Throughout my career, I have worked with various development teams, adapting, de
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanInfante122&layout=compact&langs_count=8&theme=onedark" alt="Top Languages" />
   </a>
   <a href="https://github.com/JuanInfante122">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanInfante122&theme=onedark" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/JuanInfante122">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=JuanInfante122&theme=algolia&no-frame=false&no-bg=true&margin-w=0" alt="GitHub Trophies" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanInfante122&theme=onedark" alt="Juan's GitHub Streak" />
   </a>
 </div>
 
-## 📈 Recent Activity
+## Recent activity
 
 ![Juan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanInfante122&custom_title=Juan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+### 🐍
+
+![snake gif](https://github.com/JuanInfante122/JuanInfante122/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 Credit: [JuanInfante122](https://github.com/JuanInfante122) Last Edit on 18/06/2024
+
 
 
