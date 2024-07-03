@@ -25,7 +25,7 @@ Throughout my career, I have worked with various development teams, adapting, de
 
 <div align="center">
   <h2 style="color: #007bff; border-bottom: 2px solid #007bff; padding-bottom: 10px;">🌟 Highlighted Projects</h2>
-</div>}
+</div>
 
 <br />
 
@@ -33,7 +33,8 @@ Throughout my career, I have worked with various development teams, adapting, de
 
 <br />
 
-**Introduction:**  
+**Introduction:**
+<br />
 The "Gestión de Ambientes" project facilitates SENA instructors in sending reports about resources in teaching environments, including computers, chairs, tables, and boards. It aims to detect early damage or loss of these items, allowing for efficient resource management and maintaining an optimal learning environment.
 
 **Project Objectives:**
