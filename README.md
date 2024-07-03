@@ -121,7 +121,7 @@ A lo largo de mi carrera, he trabajado con diversos equipos de desarrollo, adapt
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <!-- Continue with the other tools -->
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <div align="center">
   <a href="https://github.com/JuanInfante122">
@@ -165,6 +165,7 @@ A lo largo de mi carrera, he trabajado con diversos equipos de desarrollo, adapt
 
 ---
 
-Créditos: [JuanInfante122](https://github.com/JuanInfante122) Última edición el 03/07/2024
+Créditos: [JuanInfante122](https://github.com/JuanInfante122) Última edición el 18/06/2024
+
 
 
