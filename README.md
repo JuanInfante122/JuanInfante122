@@ -1,8 +1,6 @@
 <img align="right" height="270px" alt="guy" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFxN3M5aG5zdm5zbDhwcWl5bWMxMmdrbDdzeXp1YnlqaXRra3AwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
-<div align="center">
-  <h1 style="color: #ff5722; border-bottom: 2px solid #ff5722; padding-bottom: 10px;">Hi there 👋 I'm Juan Infante</h1>
-</div>
+# Hi there 👋 I'm Juan Infante
 
 **Junior Software Developer | FullStack | Back-end**
 
@@ -18,23 +16,14 @@ Throughout my career, I have worked with various development teams, adapting, de
 - 📫 How to reach me: **juan.infante121@gmail.com**
 - 💬 Ask me about: anything, I'm happy to help
 - <img src="https://komarev.com/ghpvc/?username=JuanInfante122&label=Profile%20views&color=brightgreen&style=plastic" alt="Juan's profile views" />
-  <a href="https://github.com/JuanInfante122?tab=followers">
-    <img src="https://img.shields.io/github/followers/JuanInfante122?label=Followers&style=social" alt="GitHub Badge">
-  </a>
+	<a href="https://github.com/JuanInfante122?tab=followers"><img src="https://img.shields.io/github/followers/JuanInfante122?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
 
-<div align="center">
-  <h2 style="color: #007bff; border-bottom: 2px solid #007bff; padding-bottom: 10px;">🌟 Highlighted Projects</h2>
-</div>
+## 🌟 Highlighted Projects
 
-<br />
-
+### [Gestión de Ambientes](https://github.com/JuanInfante122/gestionDeAmbientes.git) 
 [![Gestión de Ambientes](https://img.shields.io/badge/Gesti%C3%B3n%20de%20Ambientes-%2338B2AC.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanInfante122/gestionDeAmbientes.git)  
-
-<br />
-
-**Introduction:**
-<br />
+**Introduction:**  
 The "Gestión de Ambientes" project facilitates SENA instructors in sending reports about resources in teaching environments, including computers, chairs, tables, and boards. It aims to detect early damage or loss of these items, allowing for efficient resource management and maintaining an optimal learning environment.
 
 **Project Objectives:**
@@ -61,9 +50,7 @@ The "Gestión de Ambientes" project facilitates SENA instructors in sending repo
 
 <!-- Add more projects as needed -->
 
-<div align="center">
-  <h2 style="color: #28a745; border-bottom: 2px solid #28a745; padding-bottom: 10px;">💻 Technologies</h2>
-</div>
+## 💻 Technologies
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -79,9 +66,7 @@ The "Gestión de Ambientes" project facilitates SENA instructors in sending repo
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-<div align="center">
-  <h2 style="color: #17a2b8; border-bottom: 2px solid #17a2b8; padding-bottom: 10px;">🛠️ Software & Tools</h2>
-</div>
+## 🛠️ Software & Tools
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -95,38 +80,27 @@ The "Gestión de Ambientes" project facilitates SENA instructors in sending repo
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<div align="center">
-  <h2 style="color: #ffc107; border-bottom: 2px solid #ffc107; padding-bottom: 10px;">📊 GitHub Stats</h2>
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
+  <a href="https://github.com/JuanInfante122">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanInfante122&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="Juan's GitHub Stats" />
+  </a>
+  <a href="https://github.com/JuanInfante122">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanInfante122&layout=compact&langs_count=8&theme=onedark" alt="Top Languages" />
+  </a>
   <a href="https://github.com/JuanInfante122">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanInfante122&theme=onedark" alt="Juan's GitHub Streak" />
   </a>
 </div>
-<br>
 
-<div align="center">
-  <a href="https://github.com/JuanInfante122">
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanInfante122&custom_title=Juan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Juan's GitHub Activity Graph" />
-  </a>
-</div>
-<br>
+## Recent Activity
 
-<div align="center">
-  <img src="https://github.com/JuanInfante122/JuanInfante122/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</div>
+![Juan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanInfante122&custom_title=Juan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
----
+### 🐍
 
-## 🌐 Connect with me
-
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juaninfantequiroga/)
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanInfante122)
-  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.infante121@gmail.com)
-</div>
+![snake gif](https://github.com/JuanInfante122/JuanInfante122/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
